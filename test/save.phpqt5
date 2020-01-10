@@ -1,0 +1,22 @@
+{
+    "addons": [],
+    "app": {
+        "name": "PQDebugger",
+        "orgDomain": "phpqt.ru",
+        "orgName": "PHPQt Team",
+        "version": ""
+    },
+    "build": {
+        "icon": "",
+        "qmakelf": "",
+        "save_ini_md5": false,
+        "save_php7ts_md5": false,
+        "template": ""
+    },
+    "config": [],
+    "debug": {
+        "socketName": ""
+    },
+    "includes": [],
+    "version": "1.0"
+}
